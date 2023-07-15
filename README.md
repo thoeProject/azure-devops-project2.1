@@ -140,4 +140,4 @@ Open a browser and go to [http://localhost:8089](http://localhost:8089) then cli
 
 ## Demo 
 Demo Video on Youtube 
-https://www.youtube.com/watch?v=yHDnCFm9pww&ab_channel=khuonghoang
+https://youtu.be/L6mRi_dSAKo
