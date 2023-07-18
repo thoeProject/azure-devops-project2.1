@@ -12,7 +12,7 @@ If anything changed in it repository,  it will trigger the Github Action and als
 
 ## Badge
 
-[![Python application test with Github Actions](https://github.com/thoeProject/azure-devops-project2.1/actions/workflows/pythonapp.yml)
+[![Python application test with Github Actions](https://github.com/thoeProject/azure-devops-project2.1/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/thoeProject/azure-devops-project2.1/actions/workflows/pythonapp.yml)
 
 ## Project Plan
 
