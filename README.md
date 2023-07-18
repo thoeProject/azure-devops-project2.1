@@ -16,7 +16,7 @@ If anything changed in it repository,  it will trigger the Github Action and als
 
 ## Project Plan
 
-A [Trello](https://trello.com/b/3YsyayTe/build-cicd-pipeline-for-azure-devops) board to keep track of the tasks.
+A [Trello](https://trello.com/b/s1R4grRJ/udacity-project-02) board to keep track of the tasks.
 
 A [spreadsheet](project-schedule-h.xlsx) to manage the project plan.
 
